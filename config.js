@@ -8,7 +8,7 @@ var refreshDelay = 30000;
 var networkStat = {
  "cx": [
 	["catalyst.cncoin.cf", "https://catalyst.cncoin.cf/api/"],
-	["thepiratemine.nl", "https://cx.thepiratemine.nl:2888/"]
+	["thepiratemine.nl", "https://cx.thepiratemine.nl:2888"]
 ]
 };
 
