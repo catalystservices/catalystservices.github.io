@@ -7,7 +7,8 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
  "cx": [
-	["catalyst.cncoin.cf", "https://catalyst.cncoin.cf/api/"]
+	["catalyst.cncoin.cf", "https://catalyst.cncoin.cf/api/"],
+	["thepiratemine.nl", "https://cx.thepiratemine.nl:2888/"]
 ]
 };
 
