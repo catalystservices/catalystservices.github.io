@@ -1,5 +1,5 @@
-var api = 'https://catalyst.cncoin.cf/daemon';
-var donationAddress = "";
+var api = '45.77.208.41:17291';
+var donationAddress = "cat1UdVAkduhtRZUrNC6sdZY867aMihMzbcBvxF5zY2CbKvmZRNdGqaTwyeTZGv4UwWKCVQrGPCLWPMwR6b6KXVg8f1jU9KCi7";
 var blockTargetInterval = 60;
 var coinUnits = 10000000;
 var symbol = 'CX';
